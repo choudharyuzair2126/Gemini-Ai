@@ -4,7 +4,7 @@ import 'package:gemini_ai_app/Screens/home_screen.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
-  Gemini.init(apiKey: 'AIzaSyD-ZTQhS3NPWSVKC8DFx3yid33gq9jaQUo');
+  Gemini.init(apiKey: 'Enter your Gemini Api Key Here');
   runApp(const MyApp());
 }
 
